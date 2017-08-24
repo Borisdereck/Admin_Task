@@ -25,14 +25,13 @@ include('scripts/functions.php');
                 border: none !important;
             }
             .btn-col{
-                width: 38px;
+                width: 38px; 
             }
         </style>
     </head>
 
     <body>
         <div class="container"><br>
-
             <div class="panel panel-primary">
                 <div class="panel-heading">Boris Terraza G - .BieS</div>
 
